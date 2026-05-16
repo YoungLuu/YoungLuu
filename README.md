@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Lu
 
-> Donde el código se convierte en algo que puedes tocar.
+> Si lo puedes imaginar, lo puedes crear.
 
 ---
 
@@ -11,9 +11,9 @@
 
 ---
 
-### 🛠️ Tecnologías
+### 🛠️ Stack
 
-[![Tech stack](https://skillicons.dev/icons?i=cpp,python,git,github,raspberrypi,blender,figma,notion,discord)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=cpp,python,git,github,raspberrypi,blender,notion,discord)](https://skillicons.dev)
 
 ---
 
@@ -22,7 +22,3 @@
 `Mecatrónica` `Sistemas embebidos` `Diseño` `Dibujos` `IoT` `Robótica` `Diseño 3D` `Automatización`
 
 ---
-
-### 📊 GitHub Stats
-
-![YoungLuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungLuu&show_icons=true&theme=default&hide_border=true&count_private=true)
