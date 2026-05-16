@@ -34,12 +34,6 @@
 
 ---
 
-### ⚡ Áreas de interés
+### Áreas de interés
 
 `Mecatrónica` `Sistemas embebidos` `IoT` `Robótica` `Diseño 3D` `Automatización`
-
----
-
-### 📊 GitHub Stats
-
-![YoungLuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungLuu&show_icons=true&theme=default&hide_border=true&count_private=true)
