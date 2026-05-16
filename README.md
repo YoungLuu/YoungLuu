@@ -19,6 +19,6 @@
 
 ### ⚡ Áreas de interés
 
-`Mecatrónica` `Sistemas embebidos` `Diseño` `Dibujos` `IoT` `Robótica` `Diseño 3D` `Automatización`
+`Mecatrónica` `Sistemas embebidos` `Diseño` `Dibujo` `IoT` `Robótica` `Diseño 3D` `Automatización`
 
 ---
