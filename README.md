@@ -13,7 +13,7 @@
 
 ### 🛠️ Stack
 
-[![Tech stack](https://skillicons.dev/icons?i=cpp,python,git,github,raspberrypi,arduino,blender,ae,notion,discord)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=cpp,python,github,raspberrypi,arduino,blender,ae,notion,discord)](https://skillicons.dev)
 
 ---
 
