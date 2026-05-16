@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Lu
 
-> Donde el código se convierte en algo que puedes tocar.
+> Si lo puedes imaginar, lo puedes crear.
 
 ---
 
