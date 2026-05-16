@@ -7,12 +7,11 @@
 ### Sobre mí
 
 - 🔧 Me apasiona la tecnología tangible: microcontroladores, sistemas embebidos y todo lo que vive entre el software y el hardware
-- 🖨️ Diseño en Blender y Fusion 360 — si lo puedo modelar, lo puedo fabricar
 - 📬 Contáctame: [@luu.3n](https://www.instagram.com/luu.3n)
 
 ---
 
-### 🛠️ Lenguajes y herramientas
+### 🛠️ Stack
 
 **Programación**
 
@@ -36,4 +35,4 @@
 
 ### Áreas de interés
 
-`Mecatrónica` `Sistemas embebidos` `IoT` `Robótica` `Diseño 3D` `Automatización`
+`Mecatrónica` `Sistemas embebidos` `Diseño` `IoT` `Robótica` `Diseño 3D` `Automatización` 
